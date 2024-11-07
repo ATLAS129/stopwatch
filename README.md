@@ -23,3 +23,5 @@ A simple and responsive stopwatch application built with React using useState an
 - **useState** for handling time values.
 
 - **useRef** to store the interval ID, avoiding re-renders.
+
+thx for checking out this project ❤️
